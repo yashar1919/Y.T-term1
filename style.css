@@ -1,0 +1,117 @@
+#top{
+  margin: auto;
+  color: #00d461;
+  font-size: 70px;
+  font-style:oblique;
+  border-color: #0fd3fa;
+  border-width: 8px;
+  border-style:ridge;
+  font-weight: bold;
+  width: 800px;
+  text-align: center;
+  border-top-left-radius: 20px
+}
+
+
+body h1:hover{
+  background: #ddfdff;
+}
+
+header{
+  background-color: #ecffdd;
+  font-style: oblique;
+}
+
+#search-id:focus{
+  border: 5px solid blue;
+}
+
+body nav ul{
+  list-style: none;
+  width: 1500px;
+  height: 50px;
+  margin: 20px auto 20px auto;
+}
+
+body nav ul li{
+float: left;
+margin: 20px 50px;
+}
+
+body nav ul li a{
+  text-decoration: none;
+  font-style: italic;
+  font-size: 40px;
+  color: #00a2a7;
+}
+
+
+body nav ul li a:hover{
+background: #fffb44;
+}
+
+
+#shiraz-id p{
+  font-size: 20px;
+  background-color: #74f76e;
+}
+
+#shiraz-id strong{
+  font-size: 30px;
+  color: #33b31e;
+}
+
+
+#history-id p{
+  font-size: 20px;
+  background-color: #74f76e;
+}
+
+#history-id strong{
+  font-size: 30px;
+  color: #33b31e;
+}
+
+#history-id p b{
+  font-size: 30px;
+  color: #074ff2;
+}
+
+#history-id table{
+  background-color: #74f76e;
+  color: #f85508;
+  font-size: 25px;
+}
+
+
+#hafez-id p{
+  font-size: 20px;
+  background-color: #74f76e;
+}
+
+#hafez-id strong{
+  font-size: 30px;
+  color: #33b31e;
+}
+
+
+#saadi-id p{
+  font-size: 20px;
+  background-color: #74f76e;
+}
+
+#saadi-id strong{
+  font-size: 30px;
+  color: #33b31e;
+}
+
+
+#nature-id h3{
+  margin: 20px auto 50px 600px;
+  font-size: 40px;
+  color: #33b31e;
+}
+
+#nature-id video{
+  margin: 20px auto 50px 500px;
+}
