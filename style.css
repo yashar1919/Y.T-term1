@@ -13,6 +13,28 @@
 }
 
 
+/* ----------------------------------- */
+
+body {
+  background-color: white;
+  color: black;
+}
+
+.dark-mode {
+  background: #222;
+  filter: invert(1) hue-rotate(210deg);
+}
+
+button{
+  float:right;
+  padding: 10px 25px;
+  box-shadow: 0 0 10px gray;
+  border-radius: 20px;
+}
+
+/* ----------------------------------- */
+
+
 body h1:hover{
   background: #ddfdff;
 }
@@ -114,4 +136,13 @@ background: #fffb44;
 
 #nature-id video{
   margin: 20px auto 50px 500px;
+}
+
+
+.flex{
+  display: flex;
+}
+
+#shiraz-id{
+  flex: none;
 }
